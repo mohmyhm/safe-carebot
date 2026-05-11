@@ -437,7 +437,7 @@ If you use or adapt this project, please cite it as:
 @misc{safe-carebot2026,
   title        = {SafeCareBot: Vision-Language-Guided Robotic Assistance for Healthcare Environments},
   author       = {Mohammad Yahyaei},
-  year         = {2026},
+  year         = {2025},
   note         = {Simulation-based embodied-AI prototype for healthcare-inspired robotic assistance}
 }
 ```
